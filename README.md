@@ -22,4 +22,4 @@ Bing maps is also used to get directions between two sets of coordinates, provid
 
 The resulting coordinates are plotted and everything is mapped using plotly and mapbox.
 
-<img class="ui image" src="https://github.com/hbzxc/hbzxc.github.io/tree/master/images/Zippys_on_Kam.PNG">
+<img class="ui image" src="https://github.com/hbzxc/hbzxc.github.io/blob/master/images/Zippys_on_Kam.PNG">
