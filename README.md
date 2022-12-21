@@ -21,3 +21,5 @@ Then these address are geocoded using Bing maps to get a coordinate.
 Bing maps is also used to get directions between two sets of coordinates, provided a distance, drive time and traffic estimate.
 
 The resulting coordinates are plotted and everything is mapped using plotly and mapbox.
+
+<img class="ui image" src="https://github.com/hbzxc/hbzxc.github.io/tree/master/images/Zippys_on_Kam.PNG">
